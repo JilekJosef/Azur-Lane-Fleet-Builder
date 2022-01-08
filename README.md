@@ -1,4 +1,4 @@
 # Azur Lane Fleet Builder
-Link: 
-This project aims to help people build fleet in Azur Lane
+Link: \n
+This project aims to help people build fleet in Azur Lane \n
 This is just hosting repository, dev repo here: -private now-
